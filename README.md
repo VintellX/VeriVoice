@@ -13,7 +13,7 @@ VeriVoice is a DeepFake Audio Detection model, this is a PyTorch-based framework
     conda activate VeriVoice
     pip install -r requirements.txt
     ```
-2. **Prepare data** (check out `usage.md` for details).
+2. **Prepare data** (check out [`usage.md`](USAGE.md) for details).
 3. **Train the mdoel**:
     ```bash
     python -m ipykernel install --user --name=VeriVoice --display-name "VeriVoice-Env"
